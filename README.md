@@ -1,2 +1,4 @@
-# Multiwii_Python3
-MWC Python Arcolab
+python-multiwii
+===============
+
+Python comunication library for multiwii multicopters
